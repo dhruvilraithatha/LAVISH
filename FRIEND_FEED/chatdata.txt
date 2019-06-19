@@ -1,0 +1,110 @@
+<li>
+						<div class='author-thumb'>
+							<img src='images/profile_photo/kishan.jpg' alt='author' style='height:32px;width:32px;'>
+						</div>
+						<div class='notification-event'>
+							<a href='#' class='h6 notification-friend'>koolkishan</a>
+							<span class='notification-date'><time class='entry-date updated' datetime='2004-07-24T18:18'>Yesterday at 8:10pm</time></span>
+							<span class='chat-message-item'>hello</span>
+						</div>
+					</li><li>
+						<div class='author-thumb'>
+							<img src='images/profile_photo/23517671_1136218256509900_1942801795137935017_n.jpg' alt='author' style='height:32px;width:32px;'>
+						</div>
+						<div class='notification-event'>
+							<a href='#' class='h6 notification-friend'>Darsh Ambalya</a>
+							<span class='notification-date'><time class='entry-date updated' datetime='2004-07-24T18:18'>Yesterday at 8:10pm</time></span>
+							<span class='chat-message-item'>hello</span>
+						</div>
+					</li><li>
+						<div class='author-thumb'>
+							<img src='images/profile_photo/kishan.jpg' alt='author' style='height:32px;width:32px;'>
+						</div>
+						<div class='notification-event'>
+							<a href='#' class='h6 notification-friend'>koolkishan</a>
+							<span class='notification-date'><time class='entry-date updated' datetime='2004-07-24T18:18'>Yesterday at 8:10pm</time></span>
+							<span class='chat-message-item'>hello kishan</span>
+						</div>
+					</li><li>
+						<div class='author-thumb'>
+							<img src='images/profile_photo/23517671_1136218256509900_1942801795137935017_n.jpg' alt='author' style='height:32px;width:32px;'>
+						</div>
+						<div class='notification-event'>
+							<a href='#' class='h6 notification-friend'>Darsh Ambalya</a>
+							<span class='notification-date'><time class='entry-date updated' datetime='2004-07-24T18:18'>Yesterday at 8:10pm</time></span>
+							<span class='chat-message-item'>hello darsh</span>
+						</div>
+					</li><li>
+						<div class='author-thumb'>
+							<img src='images/profile_photo/kishan.jpg' alt='author' style='height:32px;width:32px;'>
+						</div>
+						<div class='notification-event'>
+							<a href='#' class='h6 notification-friend'>koolkishan</a>
+							<span class='notification-date'><time class='entry-date updated' datetime='2004-07-24T18:18'>Yesterday at 8:10pm</time></span>
+							<span class='chat-message-item'>hello </span>
+						</div>
+					</li><li>
+						<div class='author-thumb'>
+							<img src='images/profile_photo/23517671_1136218256509900_1942801795137935017_n.jpg' alt='author' style='height:32px;width:32px;'>
+						</div>
+						<div class='notification-event'>
+							<a href='#' class='h6 notification-friend'>Darsh Ambalya</a>
+							<span class='notification-date'><time class='entry-date updated' datetime='2004-07-24T18:18'>Yesterday at 8:10pm</time></span>
+							<span class='chat-message-item'>hello kishan</span>
+						</div>
+					</li><li>
+						<div class='author-thumb'>
+							<img src='images/profile_photo/kishan.jpg' alt='author' style='height:32px;width:32px;'>
+						</div>
+						<div class='notification-event'>
+							<a href='#' class='h6 notification-friend'>koolkishan</a>
+							<span class='notification-date'><time class='entry-date updated' datetime='2004-07-24T18:18'>Yesterday at 8:10pm</time></span>
+							<span class='chat-message-item'>hello</span>
+						</div>
+					</li><li>
+						<div class='author-thumb'>
+							<img src='images/profile_photo/23517671_1136218256509900_1942801795137935017_n.jpg' alt='author' style='height:32px;width:32px;'>
+						</div>
+						<div class='notification-event'>
+							<a href='#' class='h6 notification-friend'>Darsh Ambalya</a>
+							<span class='notification-date'><time class='entry-date updated' datetime='2004-07-24T18:18'>Yesterday at 8:10pm</time></span>
+							<span class='chat-message-item'>hello</span>
+						</div>
+					</li><li>
+						<div class='author-thumb'>
+							<img src='images/profile_photo/24899963_1273970769414911_7721295255365709662_n.jpg' alt='author' style='height:32px;width:32px;'>
+						</div>
+						<div class='notification-event'>
+							<a href='#' class='h6 notification-friend'>Pujan Tanna</a>
+							<span class='notification-date'><time class='entry-date updated' datetime='2004-07-24T18:18'>Yesterday at 8:10pm</time></span>
+							<span class='chat-message-item'>hello kishan
+</span>
+						</div>
+					</li><li>
+						<div class='author-thumb'>
+							<img src='images/profile_photo/24899963_1273970769414911_7721295255365709662_n.jpg' alt='author' style='height:32px;width:32px;'>
+						</div>
+						<div class='notification-event'>
+							<a href='#' class='h6 notification-friend'>Pujan Tanna</a>
+							<span class='notification-date'><time class='entry-date updated' datetime='2004-07-24T18:18'>Yesterday at 8:10pm</time></span>
+							<span class='chat-message-item'>hello harduk</span>
+						</div>
+					</li><li>
+						<div class='author-thumb'>
+							<img src='images/profile_photo/16641075_10206356472589956_2422638395519206323_n.jpg' alt='author' style='height:32px;width:32px;'>
+						</div>
+						<div class='notification-event'>
+							<a href='#' class='h6 notification-friend'>Jaimee Sheth</a>
+							<span class='notification-date'><time class='entry-date updated' datetime='2004-07-24T18:18'>Yesterday at 8:10pm</time></span>
+							<span class='chat-message-item'>hello</span>
+						</div>
+					</li><li>
+						<div class='author-thumb'>
+							<img src='images/profile_photo/16641075_10206356472589956_2422638395519206323_n.jpg' alt='author' style='height:32px;width:32px;'>
+						</div>
+						<div class='notification-event'>
+							<a href='#' class='h6 notification-friend'>Jaimee Sheth</a>
+							<span class='notification-date'><time class='entry-date updated' datetime='2004-07-24T18:18'>Yesterday at 8:10pm</time></span>
+							<span class='chat-message-item'>hello</span>
+						</div>
+					</li>
